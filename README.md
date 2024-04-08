@@ -1,2 +1,2 @@
 # Discord-Dayligt
-a custom CSS file for me and my friend, (repository for discord midnight, just for me and a friend)
+a custom CSS file for me and my friend, (repository for discord midnight, just for me and a friend) to use the CSS file, its easier to use vencord, then open themes in the settings then drag and drop into the theme folder, drop the CSS named "Discord_Dayligt" in, then click load missing themes then turn on the theme called "Discord Dayligt", its not verified by me because its not mine, its just a mod of a discord CSS named Midnight.css
